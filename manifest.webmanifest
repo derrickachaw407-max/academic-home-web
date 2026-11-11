@@ -1,7 +1,7 @@
 {
  "name": "Academic-Home",
  "short_name": "Academic-Home",
- "description": "Free study app for students and tutors: convert any kind of file (documents, slides, sheets, pictures, e-books, sound and video), edit slides in modern templates, study with quizzes, flashcards and spaced review, meet and present, and get help from RamzAI, an AI that shows where its answers come from.",
+ "description": "Free study app for students and tutors: convert any kind of file (documents, slides, sheets, pictures, e-books, sound and video), edit slides in modern templates, study with quizzes, flashcards and spaced review, meet and present, and get help from RamzAI, an AI for study and research that answers research questions from real papers.",
  "start_url": "/",
  "scope": "/",
  "display": "standalone",
@@ -57,7 +57,7 @@
    "sizes": "1080x2340",
    "type": "image/png",
    "form_factor": "narrow",
-   "label": "Ask RamzAI, an AI that shows its sources"
+   "label": "Ask RamzAI: chat, research from real papers, or study"
   },
   {
    "src": "/screenshot-wide.png",
