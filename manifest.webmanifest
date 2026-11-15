@@ -105,6 +105,18 @@
    ]
   },
   {
+   "name": "Proofread",
+   "short_name": "Proofread",
+   "url": "/?go=proof",
+   "icons": [
+    {
+     "src": "/icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
    "name": "Slide Studio",
    "short_name": "Slides",
    "url": "/?go=slides",
@@ -128,5 +140,14 @@
     }
    ]
   }
- ]
+ ],
+ "share_target": {
+  "action": "/?go=proof",
+  "method": "GET",
+  "params": {
+   "title": "title",
+   "text": "text",
+   "url": "url"
+  }
+ }
 }
